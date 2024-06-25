@@ -1,7 +1,7 @@
 #add a skafold of the main.py file  
 from flask import Flask
 
-print "hello world"
+print "Merhaba Dunya"
 
 app = Flask(__name__)
 
